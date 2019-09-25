@@ -12,5 +12,9 @@ public class Main {
         System.out.println("This is one, " +
                 "this is two, " +
                 "this is three.");
+
+        int anotherVariable = 50;
+        myVariable++;
+        System.out.println("This is a test.");
     }
 }

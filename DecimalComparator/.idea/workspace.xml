@@ -14,6 +14,27 @@
       <change afterPath="$PROJECT_DIR$/../Operators/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Strings/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Strings/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BarkingDog/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BarkingDog/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BarkingDog/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BarkingDog/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BarkingDog/out/production/BarkingDog/BarkingDog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../BarkingDog/out/production/BarkingDog/BarkingDog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BarkingDog/src/BarkingDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BarkingDog/src/BarkingDog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DecimalComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DecimalComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IfKeywordsAndCodeblocks/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IfKeywordsAndCodeblocks/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IfKeywordsAndCodeblocks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IfKeywordsAndCodeblocks/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IfKeywordsAndCodeblocks/out/production/IfKeywordsAndCodeblocks/com/jenniferhatton/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IfKeywordsAndCodeblocks/out/production/IfKeywordsAndCodeblocks/com/jenniferhatton/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IfKeywordsAndCodeblocks/src/com/jenniferhatton/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IfKeywordsAndCodeblocks/src/com/jenniferhatton/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeapYear/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LeapYear/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeapYear/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LeapYear/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeapYear/out/production/LeapYear/LeapYear.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LeapYear/out/production/LeapYear/LeapYear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeapYear/out/production/LeapYear/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LeapYear/out/production/LeapYear/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeapYear/src/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LeapYear/src/LeapYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpeedConversion/src/SpeedConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpeedConversion/src/SpeedConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StatementsWhiteSpaceAndIndenting/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StatementsWhiteSpaceAndIndenting/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StatementsWhiteSpaceAndIndenting/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StatementsWhiteSpaceAndIndenting/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StatementsWhiteSpaceAndIndenting/out/production/StatementsWhiteSpaceAndIndenting/com/jenniferhatton/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../StatementsWhiteSpaceAndIndenting/out/production/StatementsWhiteSpaceAndIndenting/com/jenniferhatton/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StatementsWhiteSpaceAndIndenting/src/com/jenniferhatton/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StatementsWhiteSpaceAndIndenting/src/com/jenniferhatton/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -34,8 +55,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/DecimalComparator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="52" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
+            <state relative-caret-position="525">
+              <caret line="35" column="59" lean-forward="true" selection-start-line="35" selection-start-column="59" selection-end-line="35" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -43,8 +64,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="91" selection-start-line="4" selection-start-column="91" selection-end-line="4" selection-end-column="91" />
+            <state relative-caret-position="75">
+              <caret line="5" column="81" lean-forward="true" selection-start-line="5" selection-start-column="81" selection-end-line="5" selection-end-column="81" />
             </state>
           </provider>
         </entry>
@@ -59,7 +80,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -69,7 +90,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
@@ -79,6 +100,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -96,10 +118,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -145,10 +167,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26171243" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -177,17 +199,17 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DecimalComparator.java">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="52" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
+        <state relative-caret-position="75">
+          <caret line="5" column="81" lean-forward="true" selection-start-line="5" selection-start-column="81" selection-end-line="5" selection-end-column="81" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/DecimalComparator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="91" selection-start-line="4" selection-start-column="91" selection-end-line="4" selection-end-column="91" />
+        <state relative-caret-position="525">
+          <caret line="35" column="59" lean-forward="true" selection-start-line="35" selection-start-column="59" selection-end-line="35" selection-end-column="59" />
         </state>
       </provider>
     </entry>

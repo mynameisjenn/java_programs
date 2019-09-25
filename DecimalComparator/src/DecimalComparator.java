@@ -1,19 +1,36 @@
 public class DecimalComparator {
+    public static boolean areEqualByThreeDecimalPlaces(double numOne, double numTwo) {
 
-        public static boolean areEqualByThreeDecimalPlaces(double numberOne, double numberTwo) {
+        long newNumOne = (long)(numOne * 1000);
+        long newNumTwo = (long)(numTwo * 1000);
 
-            numberOne = Math.round(numberOne * 1000);
-                double newNum = numberOne / 1000;
-            System.out.println(newNum);
-
-//                Math.round(numberTwo * 1000);
-//                numberTwo = numberTwo / 1000;
-
-
-            if(numberOne == numberTwo) {
-                return true;
-            }else {
-                return false;
-            }
+        if(newNumOne == newNumTwo) {
+            return true;
         }
+        return false;
+    }
 }
+
+
+//        Write a method areEqualByThreeDecimalPlaces with two parameters of type double.
+//
+//        The method should return boolean and it needs to return true if two double numbers are the same up to three decimal places. Otherwise, return false.
+//
+//
+//        EXAMPLES OF INPUT/OUTPUT:
+//
+//        * areEqualByThreeDecimalPlaces(-3.1756, -3.175); → should return true since numbers are equal up to 3 decimal places.
+//
+//        * areEqualByThreeDecimalPlaces(3.175, 3.176); → should return false since numbers are not equal up to 3 decimal places
+//
+//        * areEqualByThreeDecimalPlaces(3.0, 3.0); → should return true since numbers are equal up to 3 decimal places.
+//
+//        * areEqualByThreeDecimalPlaces(-3.123, 3.123); → should return false since numbers are not equal up to 3 decimal places.
+//
+//
+//        TIP: Use paper and pencil.
+//
+//        TIP: Use casting.
+//
+//        NOTE: The areEqualByThreeDecimalPlaces method  needs to be defined as public static like we have been doing so far in the course.
+//        NOTE: Do not add a  main method to solution code.
