@@ -6,7 +6,34 @@ public class Main {
 
     public static void main(String[] args) {
 
-        char charValue = 'F';
+        int switchValue = 4;
+
+        switch (switchValue) {
+
+            case 1:
+                System.out.println("Value was 1");
+                break;
+
+            case 2:
+                System.out.println("Value was 2");
+                break;
+
+            case 3:
+                System.out.println("Value was 3");
+                break;
+
+            case 4: case 5: case 6:
+                System.out.println("Value was 4, 5, or 6");
+                break;
+
+             default:
+                 System.out.println("Value was not 1, 2, 3, 4, 5 or 6");
+                 break;
+        }
+
+
+
+        char charValue = 'T';
 
     switch (charValue) {
 
@@ -16,6 +43,7 @@ public class Main {
 
             default:
                 System.out.println("The switch value is not found.");
+                break;
 
     }
 
@@ -30,6 +58,7 @@ public class Main {
             break;
             default:
                 System.out.println("Month not found.");
+                break;
     }
 
     }
