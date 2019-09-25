@@ -13,8 +13,7 @@ public class NumberOfDaysInMonth {
         if(month < 1 || month > 12 || year < 1 || year > 9999) {
             return -1;
         } else if(isLeapYear(year) && month == 2) {
-            int leapYearFebDays = 29;
-            return leapYearFebDays;
+            return 29;
         }
 
 
@@ -29,7 +28,7 @@ public class NumberOfDaysInMonth {
                 days = 28;
                 break;
 
-                case 4: case 6: case 9: case 11:
+            case 4: case 6: case 9: case 11:
                 days = 30;
                 break;
 
