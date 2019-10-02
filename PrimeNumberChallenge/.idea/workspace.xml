@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="095eae1c-00f0-4ec0-a9cc-6c24c159a3ce" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../NumberOfDaysInMonthChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberOfDaysInMonthChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DayOfWeekChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DayOfWeekChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForLoop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ForLoop/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForLoop/out/production/ForLoop/com/jenniferhatton/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ForLoop/out/production/ForLoop/com/jenniferhatton/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jenniferhatton/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jenniferhatton/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Switch/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch/out/production/Switch/com/jenniferhatton/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Switch/out/production/Switch/com/jenniferhatton/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch/src/com/jenniferhatton/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Switch/src/com/jenniferhatton/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../While/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../While/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../While/src/com/jenniferhatton/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../While/src/com/jenniferhatton/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/jenniferhatton/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            <state relative-caret-position="390">
+              <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -46,9 +54,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="800" />
+    <option name="height" value="777" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -56,10 +65,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -104,10 +117,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -152,8 +165,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/jenniferhatton/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        <state relative-caret-position="390">
+          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
         </state>
       </provider>
     </entry>

@@ -1,5 +1,6 @@
 package com.jenniferhatton;
 
+import java.sql.SQLOutput;
 import java.util.Locale;
 
 public class Main {
@@ -47,6 +48,20 @@ public class Main {
 
     }
 
+    char charElement = 'H';
+
+    switch (charElement) {
+        case 'F': case 'G': case 'H': case 'I': case 'J':
+            System.out.println("Element is " + charElement + '.');
+            break;
+
+            default:
+                System.out.println("The switch element was not found.");
+                break;
+    }
+
+
+
     String month = "March";
 
     switch (month.toLowerCase(Locale.forLanguageTag(month))) {
@@ -60,6 +75,20 @@ public class Main {
                 System.out.println("Month not found.");
                 break;
     }
+
+    String name = "Katie";
+
+    switch (name.toLowerCase(Locale.forLanguageTag(name))) {
+        case "sam": case "josh": case "jessica": case "tim": case "katie":
+            System.out.println("The name is " + name + '.');
+            break;
+
+            default:
+                System.out.println("That name is not in this list.");
+                break;
+    }
+
+
 
     }
 }
